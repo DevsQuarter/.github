@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devs Quarter
 ====================================================================================================================================
 
-Junior FullStack Developers
+I am the Organization of the Junior FullStack Developer Team
 ---------------------------
 
 * 🌍 I'm based in Turkey
