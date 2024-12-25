@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devs Quarter
 ====================================================================================================================================
 
-I am the Organization of the Junior FullStack Developer Team
+We are the Organization of the Junior FullStack Developer Team
 ---------------------------
 
 * 🌍 I'm based in Turkey
@@ -13,8 +13,7 @@ I am the Organization of the Junior FullStack Developer Team
 * 🤝 I'm open to collaborating on
 
 <a href="https://www.github.com/DevsQuarter" target="_blank" rel="noreferrer">
-    <img
-        src="https://img.shields.io/github/followers/DevsQuarter?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" />
+    <img src="https://img.shields.io/github/followers/DevsQuarter?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" />
 </a>
 <br>
 <h1>Skills </h1>
