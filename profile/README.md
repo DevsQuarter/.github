@@ -67,7 +67,7 @@ Junior FullStack Developers
 </p>
 
 
-<b>Top Repositories</b>
+<b>Template Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/DevsQuarter/Web-Project-Start-Pack" align="left"><img
             align="left" width="45%"
