@@ -8,9 +8,9 @@ Devs Quarter
 We are the Organization of the Junior FullStack Developer Team
 ---------------------------
 
-* 🌍 I'm based in Turkey
-* 🧠 I'm learning FullStack
-* 🤝 I'm open to collaborating on
+* 🌍 We're based in Turkey
+* 🧠 We're learning FullStack
+* 🤝 We're open to collaborating on
 
 <a href="https://www.github.com/DevsQuarter" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/DevsQuarter?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" />
