@@ -10,11 +10,9 @@ Junior FullStack Developers
 * 🧠  I'm learning FullStack
 * 🤝  I'm open to collaborating on
 
-<a href="https://www.github.com/DevsQuarter" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevsQuarter?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a><a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=ec4899&labelColor=000000&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/DevsQuarter" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/DevsQuarter?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" />
+</a>
 ### Skills
 
 <p align="left">
