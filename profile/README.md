@@ -42,6 +42,7 @@ I am the Organization of the Junior FullStack Developer Team
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored-dark.svg"
             width="36" height="36" alt="Arweave" /></a>
 </p>
+<h1>Platform </h1>
 <p align="left">
     <a href="https://apple.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg"
