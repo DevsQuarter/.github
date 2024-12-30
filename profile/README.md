@@ -72,3 +72,5 @@ We are the Organization of the Junior FullStack Developer Team
             align="left" width="45%"
             src="https://github-readme-stats.vercel.app/api/pin/?username=DevsQuarter&repo=Web-Project-Start-Pack&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=DevsQuarter&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
